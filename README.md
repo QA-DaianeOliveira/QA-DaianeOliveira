@@ -41,9 +41,12 @@ Atuo garantindo qualidade, confiabilidade e eficiência em produtos digitais, co
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![Cypress](https://img.shields.io/badge/Cypress-000?style=flat&logo=cypress)
 ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-000?style=flat&logo=swagger)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=database)
 ![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=jira)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000?style=flat&logo=azure-devops)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-000?style=flat&logo=android)
 
 ---
 
