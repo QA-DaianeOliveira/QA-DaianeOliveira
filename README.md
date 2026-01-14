@@ -28,7 +28,7 @@ Atuo garantindo qualidade, confiabilidade e eficiência em produtos digitais, co
 
 - Automação de Testes com **Cypress** e **JavaScript**
 - Escrita de **cenários em Gherkin (BDD)**
-- Testes de APIs com **Postman**
+- Testes de APIs com **Postman** , **Swagger**
 - Gestão e acompanhamento de testes com:
   - Jira
   - Azure DevOps
