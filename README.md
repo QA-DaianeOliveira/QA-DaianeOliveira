@@ -1,15 +1,15 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil
 
-Sou **Profissional de Testes e Qualidade de Software** com mais de **6 anos de experiência**, atualmente com foco em **Inteligência Artificial (IA)**.  
+Sou a Day **Profissional de Testes e Qualidade de Software** com mais de **6 anos de experiência**, atualmente com foco em **Inteligência Artificial (IA)**.  
 Atuo garantindo qualidade, confiabilidade e eficiência em produtos digitais, com forte atenção a processos, métricas e melhoria contínua.
 
 ---
 
 ## 🧪 Sobre minha atuação
 
-- Planejamento e execução de **testes funcionais e exploratórios**
+- Planejamento e execução de **testes funcionais, regressivos, usabilidade, integração e exploratórios**
 - Testes em **dispositivos físicos**, **emuladores** e **ambientes em nuvem**
-- Experiência com **BrowserStack** e **Mobile Center**
+- Experiência em testes Mobile com **BrowserStack** e **Mobile Center**
 - Atuação em ambientes **Ágeis (Scrum/Kanban)**
 - Colaboração ativa com times de desenvolvimento e produto
 - Perfil analítico, proativo e orientado à resolução de problemas
@@ -29,6 +29,7 @@ Atuo garantindo qualidade, confiabilidade e eficiência em produtos digitais, co
 - Automação de Testes com **Cypress** e **JavaScript**
 - Escrita de **cenários em Gherkin (BDD)**
 - Testes de APIs com **Postman** , **Swagger**
+- Banco de dados com **SQL Server**
 - Gestão e acompanhamento de testes com:
   - Jira
   - Azure DevOps
@@ -56,8 +57,8 @@ Atuo garantindo qualidade, confiabilidade e eficiência em produtos digitais, co
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *adicione aqui*
-- 📧 Email: *adicione aqui*
+- 💼 LinkedIn: *https://www.linkedin.com/in/daiane-o-6970b182/*
+- 📧 Email: *dayoliveira.qa@gmail.com*
 
 ---
 
